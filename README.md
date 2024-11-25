@@ -3,7 +3,7 @@
 Create .env file
 
 ```bash
-DATABASE_URL="mysql://root:HaniCantik1!@localhost:3306/contactapp"
+DATABASE_URL=MYSQL_STRING
 ```
 
 ```bash
